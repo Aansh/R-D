@@ -1,0 +1,5 @@
+megs: 32
+floppya: 1_44=../iso/stage0.img, status=inserted
+boot: a
+log: ../log/bochsout.txt
+mouse: enabled=0
