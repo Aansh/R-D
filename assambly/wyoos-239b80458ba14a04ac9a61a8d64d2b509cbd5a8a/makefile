@@ -67,4 +67,4 @@ install: mykernel.bin
 
 .PHONY: clean
 clean:
-	rm -rf obj mykernel.bin mykernel.iso
+	rm -rf obj mykernel.bin mykernel.iso iso
